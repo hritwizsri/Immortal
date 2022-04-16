@@ -9,7 +9,7 @@ Given Dataset  Time Series Chart
 Given Dataset Training and Testing Time Series Chart
 ![Screenshot 2022-04-16 001006](https://user-images.githubusercontent.com/89722775/163685865-00b4b503-6135-4427-b699-1498e98243ce.png)
 
-Forecasting Time Series of next 15 years
+Forecasting Time Series for next 15 years
 ![Screenshot 2022-04-16 000712](https://user-images.githubusercontent.com/89722775/163685959-3816072c-24ad-4c51-81f0-c315d9fee18b.png)
 
 
