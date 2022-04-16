@@ -1,6 +1,8 @@
 Global Temperature Time Series Forecasting
 Given time series data about temperatures in different countries, let's try to predict the change in average global temperature for the next 15 years.
+
 library used -> Pandas ,Numpy,plotly.express for Visualization
+
 I am useing a Facebook's Prophet model to make my predictions.
 
 Given Dataset  Time Series Chart
