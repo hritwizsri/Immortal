@@ -6,7 +6,7 @@ Perform the RFM Analysis to specify the customer’s segmentation that is, 'cham
 
 Perform EDA to take out valuable/visual insights from the dataset.
 
-Using Using Advanced Regression Techniques such as XGBRegressor , LinearRegression, RandomForestRegressor , DecisionTreeRegressor and 
+Using Advanced Regression Techniques such as XGBRegressor , LinearRegression, RandomForestRegressor , DecisionTreeRegressor and 
 
 Standard Library like Pandas, Numpy, Seaborn, Matplotlib and Scaling from StandardScaler.
 
